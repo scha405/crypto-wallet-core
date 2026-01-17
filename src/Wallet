@@ -1,0 +1,13 @@
+class Wallet:
+    def __init__(self, address):
+        self.address = address
+        self.balance = 0
+
+    def credit(self, amount):
+        self.balance += amount
+
+    def debit(self, amount):
+        if amount <= self.balance:
+            self.balance -= amount
+            return True
+        return False
